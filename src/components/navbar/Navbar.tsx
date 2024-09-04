@@ -10,10 +10,10 @@ function Navbar() {
                 
                 <div className="flex items-center text-2xl">
                     <p className="mr-5">
-                      <Link to='/temas' className='hover:text-blue-300'>Categorias</Link>
+                      <Link to='/categorias' className='hover:text-blue-300'>Listar Categorias</Link>
                     </p>
                     <p className="mr-5">
-                      <Link to='/cadastroTema' className='hover:text-blue-300'>Cadastrar categorias</Link>
+                      <Link to='/cadcategoria' className='hover:text-blue-300'>Cadastrar categorias</Link>
                     </p>
                     <p className="mr-5">
                       <Link to='/perfil' className="hover:text-blue-300">Perfil</Link>
